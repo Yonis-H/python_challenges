@@ -1,7 +1,6 @@
 # python-challenge
-#Yonis Hassan Jan24-2021
-#Python Homework - Py Me Up, Charlie
-
+Python Homework - Py Me Up, Charlie
+Yonis Hassan Jan24-2021
 
 ##PyBank 
 
