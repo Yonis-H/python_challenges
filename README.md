@@ -2,7 +2,7 @@
 Python Homework - Py Me Up, Charlie
 Yonis Hassan Jan24-2021
 
-##PyBank 
+## PyBank 
 
  Your task is to create a Python script that analyzes the records to calculate each of the following:
 
