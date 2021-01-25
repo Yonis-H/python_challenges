@@ -18,6 +18,14 @@
   * The greatest decrease in losses (date and amount) over the entire period
   
   
+  Financial Analysis
+----------------------------------------------------------------
+Total Months: 86
+Total: $38382578
+Average Change: ${-2315.12}
+Greatest Increase in Profits: Feb-12 ($1170593.00))
+Greatest Decrease in Profits: Sep-13 ($-1196225.00))
+  
   ## PyPoll
   
   * In this challenge, you are tasked with helping a small, rural town modernize its vote counting process.
@@ -31,3 +39,15 @@
   * The total number of votes each candidate won
 
   * The winner of the election based on popular vote.
+  
+  Election Results
+---------------------------
+Total Votes: 3521001
+---------------------------
+Correy: 20.000%(704200)
+Kahn: 63.000%(2218231)
+O'Tooley: 3.000%(105630)
+Li: 14.000%(492940)
+---------------------------
+Winner: Khan
+---------------------------
