@@ -18,13 +18,8 @@
   * The greatest decrease in losses (date and amount) over the entire period
   
   
-  Financial Analysis
-----------------------------------------------------------------
-Total Months: 86
-Total: $38382578
-Average Change: ${-2315.12}
-Greatest Increase in Profits: Feb-12 ($1170593.00))
-Greatest Decrease in Profits: Sep-13 ($-1196225.00))
+Financial Analysis
+https://github.com/Yonis-H/python_challenges/blob/main/PyBank/output.txt
   
   ## PyPoll
   
@@ -41,13 +36,5 @@ Greatest Decrease in Profits: Sep-13 ($-1196225.00))
   * The winner of the election based on popular vote.
   
   Election Results
----------------------------
-Total Votes: 3521001
----------------------------
-Correy: 20.000%(704200)
-Kahn: 63.000%(2218231)
-O'Tooley: 3.000%(105630)
-Li: 14.000%(492940)
----------------------------
-Winner: Khan
+https://github.com/Yonis-H/python_challenges/blob/main/PyPoll/election_results.text
 ---------------------------
